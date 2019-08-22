@@ -4,6 +4,14 @@ hypeApi
 
 JWT token exchange and auth
 
+## Features
+
+* Provides basic login, logout and refresh token endpoints
+* Provides middleware to verify JWT token when accessing routes
+* Provides a foundation to build out new API resources 
+
+## Usage 
+
 Make sure Apache handles Authorization headers. Add the following to your `.htaccess`
 
 ```
