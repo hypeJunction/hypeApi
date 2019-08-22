@@ -1,6 +1,6 @@
 {
 	"name": "hypejunction/hypeapi",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "elgg-plugin",
 	"description": "JWT support for Elgg",
 	"homepage": "http://hypejunction.com",
