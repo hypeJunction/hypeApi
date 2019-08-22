@@ -1,6 +1,6 @@
 {
 	"name": "hypejunction/hypejwt",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"type": "elgg-plugin",
 	"description": "JWT support for Elgg",
 	"homepage": "http://hypejunction.com",
