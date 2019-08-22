@@ -1,0 +1,29 @@
+{
+	"name": "hypejunction/hypejwt",
+	"version": "0.0.0",
+	"type": "elgg-plugin",
+	"description": "JWT support for Elgg",
+	"homepage": "http://hypejunction.com",
+	"keywords": [
+		"elgg", "plugin", "auth", "jwt"
+	],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Ismayil Khayredinov",
+			"email": "info@hypejunction.com"
+		}
+	],
+	"extra": {
+		"installer-name": "hypeApi"
+	},
+	"require": {
+		"composer/installers": "~1.0",
+        "firebase/php-jwt": "^5.0"
+    },
+	"autoload": {
+		"psr-0": {
+			"": "classes/"
+		}
+	}
+}
